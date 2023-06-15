@@ -155,6 +155,7 @@ header .navigation li a:hover{
 }
 .d-block{
     height: 30%;
+     border-radius: 15px;
 }
 #search_form input{
     padding: 10px;
