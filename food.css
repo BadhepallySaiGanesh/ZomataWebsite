@@ -23,8 +23,9 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(./images/fd2.jpg);
-    background: url(https://smallboxenergy.com/wp-content/uploads/2017/10/AdobeStock_100927429-1024x683.jpeg);
+/*     background: url(./images/fd2.jpg); */
+/*     background: url(https://smallboxenergy.com/wp-content/uploads/2017/10/AdobeStock_100927429-1024x683.jpeg); */
+     background: url(' https://lh6.googleusercontent.com/proxy/LjGEg5P2EwpEtUfypLYvX7yGuwD2hyOrpzHdy-LmFJVjOhCJNKSDmDKFAVeUl1rX59HalQ_FvN0A_x_kQXE8_n9XC8pMbBr59omMr1AoihmJp_htAd0yWNLMe_pURP0=s0-d');
     background-size: cover;
 }  
 
